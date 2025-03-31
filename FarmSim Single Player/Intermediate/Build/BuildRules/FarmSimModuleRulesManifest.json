@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Engine\\FarmSim Single Player\\Source\\FarmSim\\FarmSim.Build.cs",
+		"C:\\Unreal Engine\\FarmSim Single Player\\Source\\FarmSim.Target.cs",
+		"C:\\Unreal Engine\\FarmSim Single Player\\Source\\FarmSimEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

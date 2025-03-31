@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine\\farmsim single player\\source\\farmsim\\growingplants.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\x64\\farmsimeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\farmsim\\definitions.farmsim.h",
+            "c:\\unreal engine\\farmsim single player\\source\\farmsim\\growingplants.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\arrowcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\arrowcomponent.generated.h",
+            "c:\\unreal engine\\farmsim single player\\source\\farmsim\\harvest.h",
+            "c:\\unreal engine\\farmsim single player\\source\\farmsim\\harvestground.h",
+            "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\unrealeditor\\inc\\farmsim\\uht\\harvestground.generated.h",
+            "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\unrealeditor\\inc\\farmsim\\uht\\harvest.generated.h",
+            "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\unrealeditor\\inc\\farmsim\\uht\\growingplants.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

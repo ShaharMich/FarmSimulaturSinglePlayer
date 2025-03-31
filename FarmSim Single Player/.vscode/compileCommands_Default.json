@@ -1,0 +1,218 @@
+[
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\Budget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\Budget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmHUD.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmHUD.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSim.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSim.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSim.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSimCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSimCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSimGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\FarmSimGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\GrowingPlants.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\GrowingPlants.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\Harvest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\Harvest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\HarvestGround.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\HarvestGround.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\Lake.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\Lake.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\NPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\NPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\PlantTable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\PlantTable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\ProcessingMachine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\ProcessingMachine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\ProductsStorage.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Engine\\FarmSim\\Source\\FarmSim\\ProductsStorage.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Engine\\FarmSim\\.vscode\\compileCommands_Default\\FarmSim.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]

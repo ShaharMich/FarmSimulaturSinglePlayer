@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\unrealeditor\\inc\\farmsim\\uht\\farmhud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\x64\\farmsimeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\farmsim\\definitions.farmsim.h",
+            "c:\\unreal engine\\farmsim single player\\source\\farmsim\\farmhud.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "c:\\unreal engine\\farmsim single player\\intermediate\\build\\win64\\unrealeditor\\inc\\farmsim\\uht\\farmhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

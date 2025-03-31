@@ -1,0 +1,42 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FarmSim.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\FarmSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Budget.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmHUD.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmSim.init.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmSimCharacter.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmSimGameMode.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\GrowingPlants.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Harvest.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\HarvestGround.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Lake.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\NPC.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\NPCSpawner.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\PlantTable.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\ProcessingMachine.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\ProductsStorage.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\SaleSystem.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Budget.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmHUD.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmSim.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmSimCharacter.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\FarmSimGameMode.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\GrowingPlants.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Harvest.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\HarvestGround.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Lake.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\NPC.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\NPCSpawner.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\PlantTable.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\ProcessingMachine.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\ProductsStorage.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\SaleSystem.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\PerModuleInline.gen.cpp.obj"
+"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\Default.rc2.res"
+/OUT:"C:\Unreal Engine\FarmSim Single Player\Intermediate\Build\Win64\x64\UnrealEditor\Development\FarmSim\UnrealEditor-FarmSim.lib"
